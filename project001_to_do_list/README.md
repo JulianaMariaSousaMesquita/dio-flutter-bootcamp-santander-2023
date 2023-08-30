@@ -27,7 +27,7 @@ Este é um exemplo de um aplicativo de lista de tarefas simples construído usan
 
 ## Capturas de Tela
 
-![Captura de Tela - To do list](screenshots/screenshot_1.png)
+![Captura de Tela - To do list](https://github.com/JulianaMariaSousaMesquita/flutter_bootcamp_santander_2023/blob/main/project001_to_do_list/lib/screenshots/screenshot_1.png)
 
 ## Pré-requisitos
 
